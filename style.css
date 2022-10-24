@@ -2,12 +2,15 @@ body {
     margin: 10;
     padding: 0;
     background: rgb(217, 245, 3);
-} header, nav, main, footer {
+} 
+
+header, nav, main, footer {
      width: 70%;
      display: flex;
      justify-content: justify;
     }
-    header, nav {
+    
+header, nav {
         align-items: center;
     }
 header {
@@ -41,3 +44,4 @@ footer  {
     background: rgba(245, 7, 221, 0.683);
     font-size: 15px;
 }
+
